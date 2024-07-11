@@ -24,7 +24,7 @@ Welcome to **Mukou Chōsen** (無効挑戦) - a fun and secure voting system whe
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/evesatoru/mukou-chosen.git
+   git clone https://github.com/Eve-SatOrU/mukou-chosen.git
    cd mukou-chosen
    ```
 
@@ -98,7 +98,7 @@ Content-Type: application/json
 Authorization: Bearer <your_jwt_token>
 
 {
-  "candidateId": 1
+  "candidateId": "some-string-id"
 }
 ```
 
